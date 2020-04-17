@@ -28,6 +28,15 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+
+header {
+    display: flex;
+    
+    text-align: center;
+    width: auto;
+    justify-content: center;
+}
+
 body {
 	line-height: 1;
 }
