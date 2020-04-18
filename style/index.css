@@ -46,7 +46,7 @@ nav {
 .toprow, ul, .logo {
     display:flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-evenly;
     width: 80rem;
 }
 
@@ -112,7 +112,6 @@ p {
 }
 
 .top-content .text-container {
-    width: 48%;
     padding: 0 1%;
     padding-bottom: 2rem;  
 
@@ -210,11 +209,10 @@ footer {
 
 footer nav {
     width: 100%;
-    display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 20px 2%;
-    margin-right: 28rem;
+    /* margin-right: 28rem; */
 }
 
 footer nav a {
