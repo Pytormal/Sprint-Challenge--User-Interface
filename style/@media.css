@@ -1,0 +1,9 @@
+@media (max-width:800px){
+    .toprow, ul, .logo {
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+}
