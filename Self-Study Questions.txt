@@ -1,0 +1,15 @@
+1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+    Semantic HTML provides a meaningful structure to your HTML code, making it easier for everyone to understand.
+
+2. What are the 4 areas of the box model?
+    margin, border, padding, and contents
+
+3. While using flexbox, what axis does the following property work on: ```align-items: center```?
+     items are centered in the cross-axis
+
+4. Explain why git is valuable to a team of developers.
+    GIT is a program that works as a distributed revision control and source code management system. It allows safe data integrity, by distributing as well as providing non-linear work-flows when two or more developers are working on the same project.
+
+5. Define mobile-first design in your own words.
+    mobile-first design it creating a design for mobile devices first, then expanding that design to full designs for computers or larger screenls
+    
